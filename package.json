@@ -1,0 +1,19 @@
+{
+  "name": "webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lambda-serve": "netlify-lambda serve functions",
+    "lambda-build": "netlify-lambda build functions"
+  },
+  "keywords": [],
+  "author": "JM",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "firebase-admin": "^6.3.0",
+    "netlify-lambda": "^1.1.0"
+  }
+}
