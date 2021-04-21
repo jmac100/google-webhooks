@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "actions-on-google": "^2.13.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "date-fns-tz": "^1.1.4",
     "dotenv": "^6.2.0",
     "firebase-admin": "^6.3.0",
